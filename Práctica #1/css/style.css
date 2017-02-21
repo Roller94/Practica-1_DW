@@ -1,0 +1,63 @@
+
+header {
+	background: gray;
+	padding: 5px 25px;
+}
+
+nav {
+	
+	background: black;
+	padding: 5px 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+	float: left;
+}
+
+.menu li {
+	list-style-type: none;
+    display: inline;
+}
+
+.types li a:link {
+	text-decoration: none;
+	color: black;
+}
+
+.types {
+	padding: 0px 50px;
+}
+
+.menu li a:link {   
+ 	text-decoration: none;
+ 	color: #fff;   
+ 	padding: 0px 5px;
+}  
+
+.img {
+	width: 60%;
+}
+
+.typeCat {
+	width: 40%;
+}
+
+img {
+    width:100%;
+    max-width:400px;
+}
+
+footer {
+	float:left;
+	width: 100%;
+}
+
+footer h3 {
+	background: gray;
+	text-align: center;
+}
